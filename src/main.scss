@@ -1,0 +1,15 @@
+@import 'bootstrap/scss/bootstrap.scss';
+
+.page_content {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    .page_content_left {
+        width: 50%;
+        height: 100%;
+    }
+    .page_content_right {
+        width: 50%;
+        height: 100%;
+    }
+}
